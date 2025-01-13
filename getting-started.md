@@ -47,7 +47,7 @@ NB: on a Windows machine the Python executable is likely to be named `python`. O
     num_doubled = num * 2
     print(num, "doubled is", num_doubled)
     ```
-
+    <br />
     <details>
     <summary>Show me</summary>
         
