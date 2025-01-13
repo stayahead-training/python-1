@@ -49,7 +49,7 @@ NB: on a Windows machine the Python executable is likely to be named `python`. O
     ```
 
     <details>
-    <summary>Show me</summary>
+    <summary>Show me</summary><br />
 
     ```
     $ python double_it.py

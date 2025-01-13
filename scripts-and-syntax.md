@@ -15,7 +15,7 @@
     - <span>twotimes.py</span><br /><br />
 
     <details>
-    <summary>Show me</summary>
+    <summary>Show me</summary><br />
     <ul>
         <li>doubleIt.py (unconventional - contains capital letters)</li>
         <li>2_times.py (invalid - names must not begin with a digit)</li>
@@ -36,7 +36,7 @@
     - None of the above<br /><br />
 
     <details>
-    <summary>Show me</summary>
+    <summary>Show me</summary><br />
     <ul>
         <li>#</li>
     </ul>
@@ -54,7 +54,7 @@
     - None of the above<br /><br />
 
     <details>
-    <summary>Show me</summary>
+    <summary>Show me</summary><br />
     <i>None of the above - a line of code is terminated by the newline character</i>
     </details>
 
@@ -75,7 +75,7 @@
     ```
 
     <details>
-    <summary>Show me</summary>
+    <summary>Show me</summary><br />
 
     ```
     print("Hello")
