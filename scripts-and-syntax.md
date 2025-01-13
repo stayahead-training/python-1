@@ -6,69 +6,61 @@
 
 1. Which of the following Python source code filenames is unconventional/invalid?
 
-    ```
-    - doubleIt.py
-    - double_it.py
-    - times_2.py
-    - 2_times.py
-    - DoubleIt.py
-    - times-2.py
-    - twotimes.py
-    ```
+    - <span>doubleIt.py</span>
+    - <span>double_it.py</span>
+    - <span>times_2.py</span>
+    - <span>2_times.py</span>
+    - <span>DoubleIt.py</span>
+    - <span>times-2.py</span>
+    - <span>twotimes.py</span>
 
     <details>
         <summary>Show me</summary>
-
-        - doubleIt.py (unconventional - no capital letters)
-        - 2_times.py (invalid - names must not begin with a digit)
-        - DoubleIt.py (unconventional - no capital letters)
-        - times-2.py (invalid - no hyphens)
+        <ul>
+            <li>doubleIt.py (unconventional - contains capital letters)</li>
+            <li>2_times.py (invalid - names must not begin with a digit)</li>
+            <li>DoubleIt.py (unconventional - contains capital letters)</li>
+            <li>times-2.py (invalid - contains hyphens)</li>
+        </ul>
     </details>
 
 2. Which of the following symbols is used to mark a line in a Python source code file as a comment?
 
-    ```
-    - *
-    - #
+    - <span>*</span>
+    - <span>#</span>
     - &
     - :
     - !
     - ;
     - @
     - None of the above
-    ```
 
     <details>
         <summary>Show me</summary>
-
-        #
+        <ul>
+            <li>#</li>
+        </ul>
     </details>
 
 3. Which of the following symbols is used to terminate a line of code?
 
-    ```
-    - *
-    - #
+    - <span>*</span>
+    - <span>#</span>
     - &
     - :
     - !
     - ;
     - @
     - None of the above
-    ```
 
     <details>
         <summary>Show me</summary>
-
-        None of the above - a line of code is terminated by the newline character
+        <i>None of the above - a line of code is terminated by the newline character</i>
     </details>
 
 4. True or false. Variable and function names should adhere to the same conventions as do source code filenames.<details>
     <summary>Show me</summary>
-
-    ```
-    True
-    ```
+    <i>True</i>
 </details>
 
 5. Which of the following statements is valid and will write `Hello` to the screen?
@@ -81,10 +73,10 @@
     print("Hello")
     write "Hello"
     ```
-    
+
     <details>
         <summary>Show me</summary>
-
+        
         ```
         print("Hello")
         ```

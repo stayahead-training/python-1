@@ -34,12 +34,12 @@ NB: on a Windows machine the Python executable is likely to be named `python`. O
     ```
     $ python
     >>> 95 * 0.07
-    27889
+    6.65
     >>> exit()
     ```
 </details>
 
-4. Copy the Python code below into a file named **double_it.py**, save your changes, then execute the script using Python.
+4. Copy the code below into a file named **double_it.py**, save your changes, then execute the script using Python.
 
     ```python
     num = input("Enter a whole number: ")
@@ -79,6 +79,12 @@ NB: on a Windows machine the Python executable is likely to be named `python`. O
     ```
 </details>
 
-6. Python code is often said to be interpreted, not compiled. What does this mean, and is it true?
+6. Python code is often said to be interpreted, not compiled. What does this mean, and is it true?<details>
+    <summary>Show me</summary>
+
+    *Compilation is the conversion of source code (the code developers write) into machine code (the instructions the operating system understands).*
+    
+    *Python source code is (almost always) interpreted. That it to say the developer need not manually compile Python source code before executing it.*
+</details>
 
 [<<< back](README.md)
