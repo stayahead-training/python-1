@@ -37,7 +37,7 @@
     <details>
     <summary>Show me</summary>
     
-    - <span>#</span>
+    - `#`
 </details>
 
 3. Which of the following symbols is used to terminate a line of code?
@@ -53,10 +53,11 @@
     <br />
     <details>
     <summary>Show me</summary>
-    <i>None of the above - a line of code is terminated by the newline character</i>
+    
+    - None of the above - a line of code is terminated by the newline character
 </details>
 
-4. True or false. Variable and function names should adhere to the same conventions as do source code filenames.<br /><br /><details>
+4. True or false. Variable and function names should adhere to the same conventions as do source code filenames.<br /><details>
     <summary>Show me</summary>
 
     *True*
