@@ -13,7 +13,7 @@
     - `77`
     - `True`
     - `fred`
-
+    <br />
     <details>
     <summary>Show me</summary>
     
@@ -163,7 +163,7 @@ print(name)
     Commands:
 
     ```
-    $ python3 rugby.py
+    $ python rugby.py
     22
     ```
 </details>
@@ -177,7 +177,7 @@ print(name)
     - `str`
     - `bool`
     - `boolean`
-
+    <br />
     <details>
     <summary>Show me</summary>
     
@@ -193,7 +193,7 @@ print(name)
     - `print(dt(x))`
     - `print(type(x))`
     - `print(data_type(x))`
-
+    <br />
     <details>
     <summary>Show me</summary>
 
