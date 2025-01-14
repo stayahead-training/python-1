@@ -56,7 +56,7 @@ NB: on a Windows machine the Python executable is likely to be named `python`. O
     Enter a whole number: 5
     5 doubled is 10
     ```
-    </details>
+</details>
 
 5. Create a copy of the double_it.py file named **square_it.py**. Amend the script so that it squares the given number. Save your changes then execute the script using Python.<details>
     <summary>Show me</summary>
