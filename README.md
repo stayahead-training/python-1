@@ -2,7 +2,7 @@
 
 # Python 1 Exercises
 
-- [Getting Started](getting-started.md)
-- [Scripts and Syntax](scripts-and-syntax.md)
-- [Variables and Data Types](variables-and-data-types.md)
-- [Operators and Expressions](operators-and-expressions.md)
+- [Getting Started](content/getting-started.md)
+- [Scripts and Syntax](content/scripts-and-syntax.md)
+- [Variables and Data Types](content/variables-and-data-types.md)
+- [Operators and Expressions](content/operators-and-expressions.md)
