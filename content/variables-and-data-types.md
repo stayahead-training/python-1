@@ -75,7 +75,7 @@
     ```
 </details>
 
-6. Use Python in interactive/REPL mode to store the words `mea` and `cupla` in memory such that the first word is accessible using the name `first_word`, and the second word is accessible using the name `second_word`. Then have Python write the values of both names to the screen with a space in between.<details>
+6. Use Python in interactive/REPL mode to store the words `mea` and `culpa` in memory such that the first word is accessible using the name `first_word`, and the second word is accessible using the name `second_word`. Then have Python write the values of both names to the screen with a space in between.<details>
     <summary>Show me</summary>
 
     ```
