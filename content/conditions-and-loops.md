@@ -66,7 +66,7 @@
     ```
 </details>
 
-5. Refactor the task 4 code to use a for loop with the built-in `range` function instead of a while loop.<details>
+5. Refactor the task 3 code to use a for loop with the built-in `range` function instead of a while loop.<details>
     <summary>Show me</summary>
 
     ```python
