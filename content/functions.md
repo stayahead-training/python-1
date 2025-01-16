@@ -193,6 +193,8 @@
     Function definition (in my_functions.py):
 
     ```python
+    counter = 10
+
     def increment_counter():
         global counter
         counter += 1
@@ -202,11 +204,9 @@
     
     ```python
     import my_functions as mf
-    
-    counter = 10
 
     mf.increment_counter()
-    print(counter)
+    print(mf.counter)
     ```
 </details>
 
