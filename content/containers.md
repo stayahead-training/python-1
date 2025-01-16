@@ -108,7 +108,25 @@
     ```
 </details>
 
-10. Copy the following code into a script named <b>movie.py</b>.
+10. What is output by the following line of code?
+
+    ```
+    >>> (1, 2, 3)[1]
+    ```
+
+11. What is output by the following line of code?
+
+    ```
+    >>> ("Hello")
+    ```
+
+12. What is output by the following line of code?
+
+    ```
+    >>> ("Hello",)
+    ```
+
+13. Copy the following code into a script named <b>movie.py</b>.
 
     ```python
     movie = {
