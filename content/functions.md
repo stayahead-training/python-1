@@ -236,8 +236,8 @@
     ```python
     def do_something(num):
         if num == 0:
-            return
-        print(num + do_something(num - 1))
+            return 0
+        return num + do_something(num - 1)
 
     do_something(3)
     ```
