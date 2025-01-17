@@ -55,7 +55,7 @@
 
     ```
     >>> nums = [1, 2, 3, 4, 5, 6]
-    >>> num = len(nums) / 2
+    >>> num = int(len(nums) / 2)
     >>> name = "Shakespeare"
     >>> name[nums[num - 1]]
     ```
